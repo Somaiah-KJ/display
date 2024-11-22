@@ -1,2 +1,2 @@
-# display
-This is just for display
+# Display
+This is just a display
